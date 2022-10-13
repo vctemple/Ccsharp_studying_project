@@ -4,3 +4,4 @@
  - Lista 2: Exercises using variables.
  - Lista 3: Exercises using loops.
  - Lista 4: Simple CRUD using arrays and without classes.
+ - Jogo_da_velha: Tictactoe game with a simply CRUD and hanking system, with possible to play solo and vs mode.
