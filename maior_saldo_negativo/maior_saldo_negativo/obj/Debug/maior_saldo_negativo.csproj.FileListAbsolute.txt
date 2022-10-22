@@ -1,0 +1,8 @@
+C:\Users\victo\source\repos\maior_saldo_negativo\maior_saldo_negativo\bin\Debug\maior_saldo_negativo.exe.config
+C:\Users\victo\source\repos\maior_saldo_negativo\maior_saldo_negativo\bin\Debug\maior_saldo_negativo.exe
+C:\Users\victo\source\repos\maior_saldo_negativo\maior_saldo_negativo\bin\Debug\maior_saldo_negativo.pdb
+C:\Users\victo\source\repos\maior_saldo_negativo\maior_saldo_negativo\obj\Debug\maior_saldo_negativo.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\maior_saldo_negativo\maior_saldo_negativo\obj\Debug\maior_saldo_negativo.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\source\repos\maior_saldo_negativo\maior_saldo_negativo\obj\Debug\maior_saldo_negativo.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\maior_saldo_negativo\maior_saldo_negativo\obj\Debug\maior_saldo_negativo.exe
+C:\Users\victo\source\repos\maior_saldo_negativo\maior_saldo_negativo\obj\Debug\maior_saldo_negativo.pdb
